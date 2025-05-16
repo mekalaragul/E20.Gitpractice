@@ -6,5 +6,10 @@ public class LoginPage {
 	{
 		
 	}
+	
+	public void Login1()
+	{
+		
+	}
 
 }
